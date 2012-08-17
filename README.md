@@ -1,5 +1,6 @@
-Openfire-patch - This component contains the patch for openfire that required by our customized authentication.
+Openfire-patch
 ===============
+This component contains the patch for openfire that required by our customized authentication.
 
 Getting Started
 ---------------
